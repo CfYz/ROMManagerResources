@@ -7,12 +7,12 @@
 -->
 <resources>
 <!-- 3.0.1.2 strings -->
-  <string name="no_device_id">PayPal purchases are not supported on this device!</string>
-  <string name="downloading">Your download has started...\nYou can view its progress in the notification area!</string>
-  <string name="rom_manager_downloading">Download Started</string>
-  <string name="verify_custom_flashed">Flashing an update package on a recovery other than ClockworkMod Recovery may not work properly. Proceed?</string>
-  <string name="flash_clockwork_or_get_premium">Only Premium users may use Alternate recoveries with ROM Manager to flash ROMs! Otherwise, you must have ClockworkMod Recovery installed before continuing! Install the recovery through ROM Manager first.</string>
-  <string name="premium_activated">You have now activated ROM Manager Premium via PayPal! No further downloads are necessary, even if you wipe your device. Your purchase has been noted on ROM Manager\'s servers.</string>
+  <string name="no_device_id">PayPal-покупки не поддерживаются вашим устройством!</string>
+  <string name="downloading">Ваша загрузка началась...\nВы можете посмотреть текущий прогресс в области уведомлений!</string>
+  <string name="rom_manager_downloading">Загрузка началась</string>
+  <string name="verify_custom_flashed">Обновление прошивки в Recovery отличном от ClockworkMod Recovery может работать неправильно. Продолжить?</string>
+  <string name="flash_clockwork_or_get_premium">Только Premium-пользователи могут использовать альтернативные Recovery c ROM Manager для обновления прошивок! Другим словом, вы должны иметь установленным ClockworkMod Recovery прежде чем продолжить! Сначала установите Recovery через ROM Manager.</string>
+  <string name="premium_activated">Теперь вы активировали ROM Manager Premium через PayPal! Никакие дополнительные загрузки не нужны, даже если вы стерли прошивку. Ваша покупка отмечена на серверах ROM Manager-а.</string>
   <string name="follow_koush">Follow @koush</string>
 
 <!-- 3.0.1.2 strings END -->
@@ -109,7 +109,7 @@
 	<string name="developer_mode_details">Расширенный режим предназначен для опытных пользователей. Расширенный режим позволит Вам получить доступ к последним версиям Recovery, экспериментальным прошивкам, и другим нестабильным, но с самыми последними новинками. Следует с особой осторожностью использовать расширенный режим и только тем пользователям, которые знают, что такое ADB.</string>
 	<string name="developer_mode_on">Расширенный режим включен</string>
 	<string name="developer_mode_off">Расширенный режим выключен</string>
-	<string name="developer_mode_summary">This is available once you enable Advanced Mode from the ROM Manager Main menu.</string>
+	<string name="developer_mode_summary">Доступно если вы включили Расширенный режим из главного меню ROM Manager.</string>
 
 	<string name="automatic_backup">Автоматическое резервирование</string>
 	<string name="automatic_backup_disabled">Резервирование отключено</string>
